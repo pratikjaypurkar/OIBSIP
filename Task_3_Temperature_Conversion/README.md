@@ -9,12 +9,7 @@ Hello Everyone, i am pratik and i studied computer engineering, Hackteachz is a 
 
 ## Website
 
+![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_3_Temperature_Conversion/img/a111.png)
 
 
-![Logo]([https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_3_Temperature_Conversion/img/a111.png])
-
-
-![Logo]([https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_3_Temperature_Conversion/img/a22.png])
-
-
-
+![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_3_Temperature_Conversion/img/a22.png)
