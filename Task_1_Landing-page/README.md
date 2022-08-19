@@ -18,3 +18,18 @@ Hello Everyone, i am pratik and i studied computer engineering, Hackteachz is a 
 
 ![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_1_Landing-page/assets/img/home.png)
 
+
+## About
+
+
+![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_1_Landing-page/assets/img/about.png)
+
+## discover
+
+
+![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_1_Landing-page/assets/img/dic.png)
+
+## gallery
+
+
+![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_1_Landing-page/assets/img/gallry.png)
