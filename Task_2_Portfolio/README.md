@@ -13,15 +13,15 @@ Hello Everyone, i am pratik and i studied computer engineering, Hackteachz is a 
 ## 🔗 Links
 [![Website](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pratikjaypurkar.github.io/pratikjaypurkar.gihub.io)
 
-## 1
+
+![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_2_Portfolio/assets/images/a1.png)
 
 
-![Logo]()
+
+![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_2_Portfolio/assets/images/a2.png)
 
 
-## 2
+![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_2_Portfolio/assets/images/a3.png)
 
 
-![Logo]()
-
-
+![Logo](https://github.com/pratikjaypurkar/OIBSIP/blob/main/Task_2_Portfolio/assets/images/a4.png)
